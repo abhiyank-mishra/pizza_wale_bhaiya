@@ -12,7 +12,9 @@ const Footer = () => {
             <p className="text-gray-300">
               Delicious food delivered fresh to your door. Order online for pickup or delivery.
             </p>
-            <a href="https://www.instagram.com/abhiyank_mishra/?hl=en">Owner Instagram</a>
+            <p>Web site Owner</p>
+            <a href="https://www.instagram.com/abhiyank_mishra/?hl=en">Instagram</a>
+            
           </div>
           
           <div>
