@@ -1,0 +1,88 @@
+[
+  {
+    "customerId": "temp-5678-123",
+    "customerName": "Temp ",
+    "customerPhone": "5551234567",
+    "items": [
+      {
+        "id": "1",
+        "item_name": "Classic Cheeseburger",
+        "item_price": 49,
+        "item_type": "Burger",
+        "quantity": 2
+      },
+      {
+        "id": "9",
+        "item_name": "French Fries",
+        "item_price": 69,
+        "item_type": "Side",
+        "quantity": 1
+      },
+      {
+        "id": "8",
+        "item_name": "Soda",
+        "item_price": 29,
+        "item_type": "Drink",
+        "quantity": 2
+      }
+    ],
+    "timestamp": 1715058000000,
+    "totalAmount": 147,
+    "visitCount": 3
+  },
+  {
+    "customerId": "temp2-1234-345",
+    "customerName": "temp2",
+    "customerPhone": "5559876543",
+    "items": [
+      {
+        "id": "3",
+        "item_name": "Margherita Pizza",
+        "item_price": 179,
+        "item_type": "Pizza",
+        "quantity": 1
+      },
+      {
+        "id": "5",
+        "item_name": "Caesar Salad",
+        "item_price": 89,
+        "item_type": "Salad",
+        "quantity": 1
+      }
+    ],
+    "timestamp": 1715144400000,
+    "totalAmount": 268,
+    "visitCount": 1
+  },
+  {
+    "customerId": "abhiyank-8627-515",
+    "customerName": "Abhiyank",
+    "customerPhone": "9761278627",
+    "items": [
+      {
+        "id": "1",
+        "item_name": "Classic Cheeseburger",
+        "item_price": 49,
+        "item_type": "Burger",
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "item_name": "Veggie Burger",
+        "item_price": 59,
+        "item_type": "Burger",
+        "quantity": 1
+      },
+      {
+        "id": "3",
+        "item_name": "Margherita Pizza",
+        "item_price": 299,
+        "item_type": "Pizza",
+        "quantity": 1
+      }
+    ],
+    "timestamp": 1748069080293,
+    "totalAmount": 407,
+    "visitCount": 2
+  }
+]

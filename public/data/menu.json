@@ -1,0 +1,80 @@
+[
+  {
+    "item_name": "Aloo Tikki Burger",
+    "item_price": 39,
+    "item_type": "Burger",
+    "id": "1748071297074"
+  },
+  {
+    "item_name": "Makhani Burger",
+    "item_price": 49,
+    "item_type": "Burger",
+    "id": "1748071333824"
+  },
+  {
+    "item_name": "Crispy Veg Burger",
+    "item_price": 59,
+    "item_type": "Burger",
+    "id": "1748071357809"
+  },
+  {
+    "item_name": "Spicy Paneer Burger",
+    "item_price": 69,
+    "item_type": "Burger",
+    "id": "1748071380954"
+  },
+  {
+    "item_name": "Sandwich Roll (2 pcs.)",
+    "item_price": 49,
+    "item_type": "Sandwich",
+    "id": "1748071424273"
+  },
+  {
+    "item_name": "Paneer Pizza Sandwich (2 pcs.)",
+    "item_price": 89,
+    "item_type": "Sandwich",
+    "id": "1748071462393"
+  },
+  {
+    "item_name": "White Sauce Pasta ",
+    "item_price": 99,
+    "item_type": "Pasta",
+    "id": "1748071508640"
+  },
+  {
+    "item_name": "Red Sauce Pasta ",
+    "item_price": 109,
+    "item_type": "Pasta",
+    "id": "1748071527600"
+  },
+  {
+    "item_name": "Plain Maggi",
+    "item_price": 39,
+    "item_type": "Maggi",
+    "id": "1748071630003"
+  },
+  {
+    "item_name": "Veg Maggi",
+    "item_price": 49,
+    "item_type": "Maggi",
+    "id": "1748071648574"
+  },
+  {
+    "item_name": "Paneer Maggi",
+    "item_price": 59,
+    "item_type": "Maggi",
+    "id": "1748071668871"
+  },
+  {
+    "item_name": "Cheese Maggi",
+    "item_price": 69,
+    "item_type": "Maggi",
+    "id": "1748071690245"
+  },
+  {
+    "item_name": "Garlic Bread",
+    "item_price": 59,
+    "item_type": "Sides",
+    "id": "1748071745632"
+  }
+]
