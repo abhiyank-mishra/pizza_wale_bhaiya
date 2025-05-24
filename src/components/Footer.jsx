@@ -12,6 +12,7 @@ const Footer = () => {
             <p className="text-gray-300">
               Delicious food delivered fresh to your door. Order online for pickup or delivery.
             </p>
+            <a href="https://www.instagram.com/abhiyank_mishra/?hl=en">Owner Instagram</a>
           </div>
           
           <div>
@@ -36,6 +37,7 @@ const Footer = () => {
         
         <div className="mt-8 pt-6 border-t border-gray-700 text-center text-gray-400">
           <p>&copy; {currentYear} Pizza wale Bhaiya. All rights reserved.</p>
+          <p>This website is made by Abhiyank</p>
         </div>
       </div>
     </footer>
