@@ -13,8 +13,9 @@ const Footer = () => {
               Delicious food delivered fresh to your door. Order online for pickup or delivery.
             </p>
             <p>Web site Owner</p>
+            <h5>Abhiyank Mishra</h5>
             <a href="https://www.instagram.com/abhiyank_mishra/?hl=en">Instagram</a>
-            
+
           </div>
           
           <div>
