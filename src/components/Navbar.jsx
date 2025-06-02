@@ -32,13 +32,13 @@ const Navbar = ({ isAuthenticated, setIsAuthenticated }) => {
                     to="/admin/dashboard" 
                     className={`hover:text-orange-100 ${location.pathname === '/admin/dashboard' ? 'font-bold underline' : ''}`}
                   >
-                    Orders Dashboard
+                    Orders
                   </Link>
                   <Link 
                     to="/admin/menu-management" 
                     className={`hover:text-orange-100 ${location.pathname === '/admin/menu-management' ? 'font-bold underline' : ''}`}
                   >
-                    Menu Management
+                    Menu
                   </Link>
                   <button 
                     onClick={handleLogout} 
